@@ -1,11 +1,3 @@
----
-
-layout: default
-
-permalink: /headshot_account_deletion/
-
----
-
 # Account Deletion – AI Headshot Studio: AI Photo
 
 **AI Headshot Studio: AI Photo** allows users to request deletion of their account and associated personal data at any time.
