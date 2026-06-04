@@ -10,10 +10,9 @@ Users can request account deletion using **either** of the following methods:
 
 ### Option 1: In-App Deletion
 1. Open the **AI Headshot Studio: AI Photo** app  
-2. Tap the **Profile icon** in the **top-right corner**  
-3. Go to **Settings**  
-4. Select **Delete Account**  
-5. Confirm the request  
+2. Go to **Settings Tab**  
+3. Select **Delete Account**  
+4. Confirm the request  
 
 ### Option 2: Email Request
 Send an email to **komal.kukadiya92@gmail.com** with the subject line:
