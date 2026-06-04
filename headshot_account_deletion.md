@@ -16,7 +16,7 @@ Users can request account deletion using **either** of the following methods:
 5. Confirm the request  
 
 ### Option 2: Email Request
-Send an email to **contact@artistrysolutions.in** with the subject line:
+Send an email to **komal.kukadiya92@gmail.com** with the subject line:
 
 **Account Deletion Request – AI Headshot Studio**
 
@@ -49,5 +49,5 @@ Upon successful verification, the following data will be permanently deleted:
 
 For any questions regarding account deletion or data privacy, contact:
 
-- **Email:** contact@artistrysolutions.in  
+- **Email:** komal.kukadiya92@gmail.com  
 - **App:** AI Headshot Studio: AI Photo
